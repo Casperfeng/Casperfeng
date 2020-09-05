@@ -16,7 +16,7 @@
 <img align="left" alt="Apollo" width="26px" src="https://miro.medium.com/max/300/0*xdVGlEH7f9cRVaR-" />
 
 
-<img align="left" alt="Redux" width="80px" src="https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67" />
+<img align="left" alt="Redux" width="80px" height="26px" src="https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
@@ -24,15 +24,13 @@
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+<img align="left" alt="Terraform" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 
-<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+<img align="left" alt="Ansible" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 
-<img align="left" alt="Java" width="26px" src="https://ih1.redbubble.net/image.418233732.0994/flat,1000x1000,075,f.u1.jpg" />
+<img align="left" alt="Java" width="26px" height="26px" src="https://ih1.redbubble.net/image.418233732.0994/flat,1000x1000,075,f.u1.jpg" />
 
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-
-<img align="left" alt="Microsoft Azure" width="26px" src="https://www.nuagenetworks.net/wp-content/uploads/2020/06/azure-logo-square.png" />
+<img align="left" alt="Kotlin" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 
 <br />
 <br />
